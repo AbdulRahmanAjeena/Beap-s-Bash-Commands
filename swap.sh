@@ -1,3 +1,4 @@
+echo "UBUNTU ONLY";
 swapoff /swapfile
 free -h;
 sudo fallocate -l 60G /swapfile
